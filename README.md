@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsraelLencina
 - 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning forecasting over time series.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning chinese, developing my Artificial intelligence skills and more, stay tuned!.
+- 💞️ I’m looking to collaborate on projects which involves technologies as LLM models, MLOps, development of ML models and Artificial vision!
 - 📫 How to reach me israel.lencina@gmail.com
 
 <!---
